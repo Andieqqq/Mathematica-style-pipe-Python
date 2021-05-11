@@ -5,7 +5,9 @@ from operator import add, mul, sub
 from typing import Any, Callable
 
 __all__ = ["pipe"]
-
+__author__ = "wuyudi"
+__license__ = "MIT"
+__version__ = "1.0.0"
 
 class pipe:
     """A pipe
