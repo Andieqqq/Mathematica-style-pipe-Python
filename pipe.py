@@ -9,6 +9,7 @@ __author__ = "wuyudi"
 __license__ = "MIT"
 __version__ = "1.0.0"
 
+
 class pipe:
     """A pipe
     >>> pipe(5) // (lambda x: add(x, 2)) // (lambda x: mul(x, 2)) // (lambda x: sub(x, 5))
